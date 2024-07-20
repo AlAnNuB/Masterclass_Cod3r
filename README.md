@@ -9,3 +9,4 @@
 -   [Masterclass React Native](https://www.youtube.com/watch?v=tGv7G4M8uPI)
 -   [Masterclass NestJS](https://www.youtube.com/watch?v=_6XqSmjYdbE)
 -   [Iniciando um E-Commerce com React e Next 2024](https://www.youtube.com/watch?v=4xenNbOXl38)
+-   [Sua Primeira Aplicação React Native - Android e IOS](https://www.youtube.com/watch?v=eO1lJFPJWLo)
